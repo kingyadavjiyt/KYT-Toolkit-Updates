@@ -15,7 +15,7 @@
 ---
 
 ## 📥 Download
-👉 Latest Version: [Download Here](YOUR_LINK)
+👉 Latest Version: [Download Here](https://github.com/kingyadavjiyt/KYT-Toolkit-Updates/releases/latest)
 
 ---
 
